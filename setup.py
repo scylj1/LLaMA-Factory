@@ -12,10 +12,12 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+## something
+
 import os
 import re
 
-sometest
+## sometest
 
 from setuptools import find_packages, setup
 
