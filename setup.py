@@ -15,6 +15,8 @@
 import os
 import re
 
+sometest
+
 from setuptools import find_packages, setup
 
 
